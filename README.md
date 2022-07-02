@@ -1,12 +1,12 @@
-### 我的装机必备软件清单
+# 我的装机必备软件清单
 
-##### Windows 原版镜像网站
+### Windows 原版镜像网站
 
 [MSDN, 我告诉你](https://msdn.itellyou.cn/)
 
 [NEXT, ITELLYOU](https://next.itellyou.cn/)
 
-##### 装机 PE 工具箱
+### 装机 PE 工具箱
 
 [微PE工具箱 - 超好用的WinPE装机维护工具](https://www.wepe.com.cn/)
 
@@ -14,7 +14,7 @@
 
 [FirPe Project - 也许是最适合年轻人使用的第三方WinPE~](http://www.firpe.cn/)
 
-##### U盘启动制作工具
+### U盘启动制作工具
 
 [Ventoy - 新一代多系统启动U盘解决方案](https://www.ventoy.net/)
 
@@ -24,13 +24,13 @@
 
 [UltraISO 软碟通](https://cn.ultraiso.net/)
 
-##### 硬件检测工具箱
+### 硬件检测工具箱
 
 [图吧工具箱](http://www.tbtool.cn/)
 
 [卡硬工具箱](http://www.kbtool.cn/)
 
-##### 软件资源网站
+### 软件资源网站
 
 [果核剥壳 - 互联网的净土](https://www.ghxi.com/)
 
@@ -42,19 +42,19 @@
 
 [/landian/soft/](https://dl.lancdn.com/landian/soft/)
 
-##### 装机必备软件
+### 装机必备软件
 
-###### 激活工具
+#### 激活工具
 
 [HEU KMS Activator](https://www.ghxi.com/heukmsactivator.html)
 
 [Office Tool Plus 官方网站 - 一键部署Office](https://otp.landian.vip/zh-cn/)
 
-###### 安全软件
+#### 安全软件
 
 [火绒安全软件](https://www.huorong.cn/)
 
-###### 系统优化
+#### 系统优化
 
 [DISM++](https://www.ghxi.com/dism.html)
 
@@ -64,7 +64,7 @@
 
 [Wise Registry Cleaner Pro](https://www.ghxi.com/wiseregcleaner.html)
 
-###### 磁盘分区 & 数据恢复
+#### 磁盘分区 & 数据恢复
 
 [DiskGenius](https://www.diskgenius.cn/)
 
@@ -72,11 +72,11 @@
 
 [傲梅分区助手](https://www.ghxi.com/aomeipartitionassistant.html)
 
-###### 输入法
+#### 输入法
 
 [搜狗输入法 去广告安装版](https://www.ghxi.com/sougouinput.html)
 
-###### 即时通讯
+#### 即时通讯
 
 [腾讯QQ](https://im.qq.com/pcqq)
 
@@ -86,7 +86,7 @@
 
 [Telegram](https://desktop.telegram.org/)
 
-###### 影音娱乐
+#### 影音娱乐
 
 [QQ音乐 去广告绿色版](https://www.ghxi.com/pcqqmusic.html)
 
@@ -98,13 +98,13 @@
 
 [抖音PC版](https://www.douyin.com/downloadpage)
 
-###### 视频剪辑
+#### 视频剪辑
 
 [剪映专业版](https://lv.ulikecam.com/)
 
 [必剪](http://bcut.drawyoo.com/)
 
-###### 录屏截图
+#### 录屏截图
 
 [Snipaste 截图工具](https://zh.snipaste.com/)
 
@@ -114,7 +114,7 @@
 
 [Bandicam 录屏工具](https://www.ghxi.com/bandicam.html)
 
-###### 下载工具
+#### 下载工具
 
 [Internet Download Manager](https://www.423down.com/575.html)
 
@@ -128,7 +128,7 @@
 
 [百度网盘 PC客户端 绿色纯净版](https://www.ghxi.com/pcbdwp.html)
 
-###### 浏览器
+#### 浏览器
 
 [Google Chrome 谷歌浏览器官方版](https://www.google.cn/intl/zh-CN/chrome/)
 
@@ -140,13 +140,13 @@
 
 [FireFox 官方版](http://www.firefox.com.cn/)
 
-###### 压缩解压工具
+#### 压缩解压工具
 
 [WinRAR 正式版 安装版 便携版](https://www.ghxi.com/pcwinrar.html)
 
 [7-Zip](https://www.7-zip.org/)
 
-###### 远程控制工具
+#### 远程控制工具
 
 [向日葵远程控制软件](https://sunlogin.oray.com/)
 
@@ -154,9 +154,9 @@
 
 [TeamViewer远程控制软件](https://www.teamviewer.cn/cn/)
 
-###### 编程开发
+#### 编程开发
 
-编程语言
+###### 编程语言
 
 [Python](https://www.python.org/downloads/)
 
@@ -164,7 +164,7 @@
 
 [Golang](https://go.dev/)
 
-开发IDE
+###### 开发IDE
 
 [Visual Studio Code](https://code.visualstudio.com/)
 
@@ -176,7 +176,7 @@
 
 [GitHub Desktop](https://desktop.github.com/)
 
-###### 效率软件
+#### 效率软件
 
 [Everything](https://www.voidtools.com/zh-cn/)
 
@@ -186,7 +186,7 @@
 
 [Rolan v2.2.0 绿色修改版](https://www.ghxi.com/rolan.html)
 
-###### 卸载工具
+#### 卸载工具
 
 [HiBit Uninstaller](https://hibitsoft.ir/Uninstaller.html)
 
@@ -196,7 +196,7 @@
 
 [Revo Uninstaller](https://www.ghxi.com/revouninstaller.html)
 
-###### 虚拟机
+#### 虚拟机
 
 [VMware Workstation免激活精简版](https://www.ghxi.com/workstationlite.html)
 
