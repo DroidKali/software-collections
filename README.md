@@ -64,6 +64,14 @@
 
 [Wise Registry Cleaner Pro](https://www.ghxi.com/wiseregcleaner.html)
 
+#### 常用运行库
+
+[微软常用运行库合集](https://www.ghxi.com/yxkhj.html)
+
+[微软.NET离线运行库合集](https://www.ghxi.com/nethj.html)
+
+[VisualCppRedist运行库合集](https://www.ghxi.com/visualcppredist.html)
+
 #### 磁盘分区 & 数据恢复
 
 [DiskGenius](https://www.diskgenius.cn/)
@@ -170,7 +178,7 @@
 
 [Visual Studio](https://visualstudio.microsoft.com/zh-hans/)
 
-[Pycharm](https://www.jetbrains.com/pycharm/)
+[PyCharm](https://www.jetbrains.com/pycharm/)
 
 [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 
