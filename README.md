@@ -50,6 +50,10 @@
 
 [Office Tool Plus 官方网站 - 一键部署Office](https://otp.landian.vip/zh-cn/)
 
+#### 驱动安装
+
+[360驱动大师精简单文件版](https://www.ghxi.com/360drvmgr.html)
+
 #### 安全软件
 
 [火绒安全软件](https://www.huorong.cn/)
